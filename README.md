@@ -20,7 +20,8 @@ This app lets users enter any city name, fetches real-time weather data from the
 
 ## 🖥️ Screenshot
 
-*(You can add a screenshot here once uploaded to GitHub by dragging it into this README)*
+![image](https://github.com/user-attachments/assets/82f13566-04f2-45ad-b4c9-c599e1577538)
+
 
 ---
 
