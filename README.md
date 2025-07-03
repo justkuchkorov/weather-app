@@ -80,6 +80,6 @@ If the city is not found or there’s a network issue, the app will show helpful
 ## 📁 Author
 
 Made with ❤️ by **Abdurakhmon Baike**  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: [https://github.com/yourusername](https://github.com/justkuchkorov)
 
 ---
