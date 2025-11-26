@@ -9,10 +9,10 @@ Emoji representing the current weather
 
 Features
 
-- ✅ Real-time weather updates
-- ✅ User-friendly interface with centered layout
-- ✅ Emoji icons for weather types
-- ✅ Error handling for common API and network issues
+- Real-time weather updates
+- User-friendly interface with centered layout
+- Emoji icons for weather types
+- Error handling for common API and network issues
 
 Screenshot
 
